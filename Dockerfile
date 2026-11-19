@@ -1,4 +1,4 @@
-FROM ruby:3.3.12
+FROM ruby:3.3.14
 
 LABEL maintainer="felipe@yerba.dev"
 
